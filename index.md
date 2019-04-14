@@ -124,3 +124,11 @@ CSP, UCAC
 
 ![](https://www.uperform.cn/wp-content/uploads/2018/10/15261540613422_.pic_-e1540613751812.jpg)
 
+### Fred Meng
+
+CSP, UCAC
+
+敏捷教练，培训师
+
+![](https://www.uperform.cn/wp-content/uploads/2019/04/-2019-04-14-%E4%B8%8A%E5%8D%8810.07.26-e1555207956492.png)
+
