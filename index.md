@@ -132,3 +132,10 @@ CSP, UCAC
 
 ![](https://www.uperform.cn/wp-content/uploads/2019/04/-2019-04-14-%E4%B8%8A%E5%8D%8810.07.26-e1555207956492.png)
 
+### Lance Zhang
+
+CTC, UCAC
+
+敏捷教练，培训师,  外企500强高管
+
+![](https://www.uperform.cn/wp-content/uploads/2019/08/Lance-Zhang-e1564721295638.jpg)
