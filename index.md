@@ -1,5 +1,5 @@
 # UCAC™优普丰认证敏捷教练认证 - UPerform Certified Agile Coach
-![](https://www.uperform.cn/wp-content/uploads/2018/07/banner.jpg)
+<img src="https://www.uperform.cn/wp-content/uploads/2018/07/banner.jpg" style="width: 100%;">
 
 ## 愿景
 
@@ -139,3 +139,20 @@ CTC, UCAC
 敏捷教练，培训师,  外企500强高管
 
 ![](https://www.uperform.cn/wp-content/uploads/2019/08/Lance-Zhang-e1564721295638.jpg)
+
+### Ella Yao
+
+CTC, UCAC
+
+Ella投身自己的热情于帮助建立更好，更具适应性的组织，以使企业在瞬息万变的环境中取得成功。 她拥有多年教练组织和团队方面的经验，在敏捷转型中帮助组织和团队找到更好的工作方式，并实现其目标。 她乐于帮助和激发团队以及领导者的新的思维方式。在获得帮助他人的喜悦的同时，她自己也收获了力量与学习。
+她是Scrum联盟认证的CTC（Certified Team Coach）。 她有与不同行业，不同文化的客户合作的经验，这些多元化的经验使她在教练的方式上更具适应性和效率，并且她也在不断探索更好的方法。
+她是埃里克森专业教练，目前在获得ICF专业教练认证的路上不断努力。 她喜欢画画，致力于成为一名视觉引导师。
+
+![](https://www.uperform.cn/wp-content/uploads/2020/07/891594689126_.pic_hd-e1594699655858.jpg)
+
+
+<style type="text/css">
+	body {
+		margin: 10px;
+	}
+</style>
