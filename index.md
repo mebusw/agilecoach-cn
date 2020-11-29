@@ -3,6 +3,8 @@
 <head>
   <meta charset="utf-8"/>
   <title>中国认证敏捷教练 Agile Coach</title>
+  <meta name="keywords" content="进阶敏捷教练,敏捷认证,Scrum认证,数字化转型,ScrumMaster,敏捷培训,敏捷咨询顾问">
+  <meta name="description" content="提供敏捷教练认证,遵循国际体系培养CSP、CTC和CEC敏捷教练,促进成长与社区交流,进阶Scrum认证培训,帮助数字化转型和金融科技创新,Scrum Master和敏捷咨询顾问的家园">
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
